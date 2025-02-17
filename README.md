@@ -41,8 +41,8 @@
 🎵 **Music Enthusiast** – I love listening to music and enjoy **Hi-Fi gear like IEMs**  
 ☕ **Coffee Lover** – Always hunting for the best coffee spots  
 🛠 **PC Building** – I build and optimize custom PCs  
-🐾 **Pet Owner** – I enjoy taking care of and spending time with pets  
-🍳 **Cooking Enthusiast** – I like experimenting in the kitchen  
+🐾 **Pet Owner** – I enjoy taking care of and spending time with pets (<3 Charlie and Benji)  
+🍳 **Cooking Enthusiast** – I like experimenting in the kitchen (and on the grill)  
 🎬 **Movie Buff** – I enjoy watching movies, from classics to modern hits  
 
 
