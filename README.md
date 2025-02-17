@@ -36,7 +36,7 @@
 ---
 
 ### 🎮 About Me Beyond Tech
-<div align="center">
+
 🎯 **FPS Gamer** – I play **collegiate Valorant** and enjoy competitive shooters  
 🎵 **Music Enthusiast** – I love listening to music and enjoy **Hi-Fi gear like IEMs**  
 ☕ **Coffee Lover** – Always hunting for the best coffee spots  
@@ -44,7 +44,7 @@
 🐾 **Pet Owner** – I enjoy taking care of and spending time with pets  
 🍳 **Cooking Enthusiast** – I like experimenting in the kitchen  
 🎬 **Movie Buff** – I enjoy watching movies, from classics to modern hits  
-</div>
+
 
 ---
 
