@@ -2,9 +2,7 @@
   
 ## 👋 Hey, I'm Kevin Wagner!
 
-🚀 **Software Engineer | AI Enthusiast | Full-Stack Developer | Founder**  
-📍 **Masters in Computer Science (AI Specialization), University of Florida**  
-💡 Passionate about AI, system design, and building high-performance applications.  
+📍 **Studying CS w/ AI Focus**    
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7BE00&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+Enthusiast;Full+Stack+Developer;Collegiate+Valorant+Player;Hi-Fi+Music+Lover;Coffee+Enthusiast)](https://git.io/typing-svg)
 
